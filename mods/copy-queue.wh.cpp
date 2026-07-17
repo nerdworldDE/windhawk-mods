@@ -4,7 +4,7 @@
 // @description     Queues Explorer copy operations while keeping them visible in the normal copy dialog
 // @version         1.0
 // @author          Nerdworld
-// @github          https://github.com/nerdworldDE/
+// @github          https://github.com/nerdworldDE
 // @homepage        https://nerdworld.de/
 // @include         explorer.exe
 // @architecture    x86-64
